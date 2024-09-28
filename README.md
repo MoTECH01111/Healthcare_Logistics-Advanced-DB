@@ -1,0 +1,2 @@
+# Healthcare_Logistics- Advanced Database- 2nd year
+ This demonstration is written with SQL Workbench. The department responsible for healthcare logistics must have an effective database to handle and analyse their stock of medical supplies. They wish to monitor how supplies are used over time and analyse data and trends to improve the effectiveness and economy of the purchasing and delivery of items. 
